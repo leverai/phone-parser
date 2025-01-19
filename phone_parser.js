@@ -50,9 +50,9 @@ async function createDriver() {
 
 // Database
 const dbConfig = {
-    host: '185.105.117.115',
-    user: 'root1234',
-    password: 'root1234',
+    host: '123.123.123.123',
+    user: 'root',
+    password: 'root',
     database: 'adblock_list',
 };
 
